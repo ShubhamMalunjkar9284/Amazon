@@ -1,4 +1,4 @@
-package boilarplate;
+package buy_product;
 
 import java.io.File;
 import java.io.IOException;
@@ -18,7 +18,7 @@ import org.openqa.selenium.support.ui.Select;
 import org.openqa.selenium.support.ui.WebDriverWait;
 import org.testng.asserts.SoftAssert;
 
-public class VerifyFunctionality {
+public class BuyDress {
 
 	public static void main(String[] args) throws InterruptedException, IOException {
 		//Initializing browser and web page
